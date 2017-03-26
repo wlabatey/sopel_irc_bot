@@ -1,0 +1,1 @@
+Sopel Python IRC Bot
